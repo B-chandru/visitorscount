@@ -14,7 +14,7 @@ This repo is about how to create a counter using express and mongodb.
 Clone the project
 
 ```bash
-  git clone https://github.com/B-chandru/urlshortener.git
+  git clone https://github.com/B-chandru/visitorscount.git
 ```
 
 Go to the project directory
