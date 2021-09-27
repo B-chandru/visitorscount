@@ -1,5 +1,6 @@
 # visitorscount
 This repo is about how to create a counter using express and mongodb.
+whenever any user  gives a get request the counter value is increased by 1.
 
  ## Tech Stack
 
