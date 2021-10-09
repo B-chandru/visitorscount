@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 module.exports = async function connection(){
     try{
-         // connect with moongoose database
+
 const connectionParamas= {
     useNewUrlParser: true,
      useUnifiedTopology: true
